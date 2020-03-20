@@ -1,2 +1,2 @@
 # SoftServe_Calculator
-**JavaCore
+Java Core
